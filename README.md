@@ -1,2 +1,2 @@
 # new-project
-this is a new respositorie 
+this is a new respositorie
