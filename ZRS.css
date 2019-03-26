@@ -1,0 +1,43 @@
+body {
+  color: lightgray;
+  background: url(Background.jpg);
+  text-align: center;
+  font-size: 2em;
+  
+}
+#container{
+  max-width: 80%;
+  margin-top: 100px;
+  margin-right:200px;
+  margin-left:200px;
+  border: 2px 4px solid black;
+  border-radius: 10%;
+  background-color:  black;
+  opacity: 0.90;
+  
+}
+.panel {
+  max-width: 80%;
+  margin: 20px auto;
+  background-color: #303030;
+  padding: 5px;
+  border: 4px 4px 5px solid black;
+  border-radius: 10px;
+}
+button{
+  width: 80%;
+  height:3em;
+  margin-bottom: 1.5;
+  border: 4px 4px 5px  solid black;
+  border-radius: 10px;
+  font-size: 0.5em;
+}
+input{
+  width:80%;
+  height:2.1em ;
+  font-size: 0.8em;
+  border: 4px 4px 5px solid black;
+  border-radius:10px;
+  text-align: center;
+}
+
